@@ -1,0 +1,54 @@
+{
+  "url": "https://petrovich.ru/",
+  "host": "petrovich.ru",
+  "createdAt": "2026-07-21T16:53:35.096Z",
+  "viewports": {
+    "desktop": {
+      "designMd": "DESIGN.desktop.md",
+      "dtcg": "tokens.desktop.json",
+      "raw": "raw.desktop.json",
+      "brandGuide": null,
+      "lintExit": 0,
+      "summary": {
+        "ok": true,
+        "bytes": 2358,
+        "hasFrontmatter": true,
+        "sections": [
+          "Overview",
+          "Colors",
+          "Typography",
+          "Layout",
+          "Elevation & Depth",
+          "Shapes"
+        ],
+        "colorsMentioned": 8
+      }
+    },
+    "mobile": {
+      "designMd": "DESIGN.mobile.md",
+      "dtcg": "tokens.mobile.json",
+      "raw": "raw.mobile.json",
+      "brandGuide": null,
+      "lintExit": 0,
+      "summary": {
+        "ok": true,
+        "bytes": 2358,
+        "hasFrontmatter": true,
+        "sections": [
+          "Overview",
+          "Colors",
+          "Typography",
+          "Layout",
+          "Elevation & Depth",
+          "Shapes"
+        ],
+        "colorsMentioned": 8
+      }
+    }
+  },
+  "notes": [
+    "Use extracted tokens as a reference/foundation; transform them into your own product identity before shipping.",
+    "Do not redistribute third-party logos/trademarks; prefer authorized/internal targets for automated extraction.",
+    "Run multiple viewports and lint DESIGN.md before feeding it to coding agents."
+  ]
+}

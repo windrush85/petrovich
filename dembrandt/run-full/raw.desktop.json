@@ -1,0 +1,691 @@
+{
+  "url": "https://petrovich.ru/",
+  "extractedAt": "2026-07-21T16:53:42.635Z",
+  "meta": {
+    "snapshotId": "48da0a05-787d-4712-9999-7e093c08c6ed",
+    "dembrandtVersion": "0.24.0",
+    "schemaVersion": "1.3.0",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "fontsReady": true,
+    "flags": {
+      "slow": true
+    }
+  },
+  "siteName": null,
+  "logo": null,
+  "favicons": [
+    {
+      "type": "favicon.ico",
+      "url": "https://petrovich.ru/favicon.ico",
+      "sizes": null
+    }
+  ],
+  "colors": {
+    "semantic": {
+      "background": "rgb(255, 255, 255)",
+      "text": "rgb(31, 41, 55)",
+      "primary": "rgb(31, 41, 55)"
+    },
+    "palette": [
+      {
+        "color": "rgb(31, 41, 55)",
+        "normalized": "#1f2937",
+        "count": 810,
+        "confidence": "high",
+        "sources": [
+          "card",
+          "icon-wrap",
+          "icon"
+        ],
+        "lch": "lch(16.27% 10.41 270.14)",
+        "oklch": "oklch(27.81% 0.03 256.85)",
+        "role": "accent",
+        "onColor": "#ffffff",
+        "hover": "#253142",
+        "variantOf": "primary",
+        "pageCount": 30
+      },
+      {
+        "color": "rgb(107, 114, 128)",
+        "normalized": "#6b7280",
+        "count": 120,
+        "confidence": "high",
+        "sources": [
+          "lead",
+          "support"
+        ],
+        "lch": "lch(47.9% 8.61 273.28)",
+        "oklch": "oklch(55.1% 0.023 264.36)",
+        "role": "accent",
+        "onColor": "#ffffff",
+        "hover": "#80899a",
+        "pageCount": 30
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "normalized": "#ffffff",
+        "count": 90,
+        "confidence": "high",
+        "sources": [
+          "card",
+          "primary-btn"
+        ],
+        "lch": "lch(100% 0 158.2)",
+        "oklch": "oklch(100% 0 89.88)",
+        "role": "surface",
+        "onColor": "#000000",
+        "hover": "#d9d9d9",
+        "pageCount": 30
+      },
+      {
+        "color": "rgb(16, 16, 16)",
+        "normalized": "#101010",
+        "count": 30,
+        "confidence": "high",
+        "sources": [
+          "hover/focus"
+        ],
+        "pageCount": 30
+      }
+    ],
+    "cssVariables": {},
+    "detected": [
+      {
+        "color": "rgb(31, 41, 55)",
+        "normalized": "#1f2937",
+        "count": 27,
+        "usageFrac": 0.6923076923076923,
+        "confidence": "high",
+        "sources": [
+          "card",
+          "icon-wrap",
+          "icon",
+          "section-title",
+          "tips"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(107, 114, 128)",
+        "normalized": "#6b7280",
+        "count": 4,
+        "usageFrac": 0.10256410256410256,
+        "confidence": "medium",
+        "sources": [
+          "lead",
+          "support"
+        ],
+        "isToken": false
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "normalized": "#ffffff",
+        "count": 3,
+        "usageFrac": 0.07692307692307693,
+        "confidence": "high",
+        "sources": [
+          "card",
+          "primary-btn"
+        ],
+        "isToken": true
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "normalized": "#000000",
+        "count": 2,
+        "usageFrac": 0.05128205128205128,
+        "confidence": "low",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(230, 184, 0)",
+        "normalized": "#e6b800",
+        "count": 2,
+        "usageFrac": 0.05128205128205128,
+        "confidence": "low",
+        "sources": [],
+        "isToken": false
+      },
+      {
+        "color": "rgb(255, 204, 51)",
+        "normalized": "#ffcc33",
+        "count": 1,
+        "usageFrac": 0.02564102564102564,
+        "confidence": "low",
+        "sources": [
+          "icon"
+        ],
+        "isToken": false
+      }
+    ],
+    "_raw": [
+      {
+        "color": "rgb(31, 41, 55)",
+        "normalized": "#1f2937",
+        "count": 27
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "normalized": "#ffffff",
+        "count": 3
+      },
+      {
+        "color": "rgb(107, 114, 128)",
+        "normalized": "#6b7280",
+        "count": 4
+      }
+    ]
+  },
+  "typography": {
+    "styles": [
+      {
+        "context": "heading-1",
+        "family": "Inter",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Arial",
+        "size": "36px (2.25rem)",
+        "weight": 800,
+        "lineHeight": "1.08",
+        "spacing": "-0.72px",
+        "transform": null,
+        "count": 30
+      },
+      {
+        "context": "ui",
+        "family": "Arial",
+        "fallbacks": null,
+        "size": "18px (1.13rem)",
+        "weight": 700,
+        "lineHeight": null,
+        "spacing": null,
+        "transform": null,
+        "count": 30
+      },
+      {
+        "context": "body",
+        "family": "Inter",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Arial",
+        "size": "17px (1.06rem)",
+        "weight": 700,
+        "lineHeight": null,
+        "spacing": null,
+        "transform": null,
+        "count": 30
+      },
+      {
+        "context": "body",
+        "family": "Inter",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Arial",
+        "size": "16px (1.00rem)",
+        "weight": 400,
+        "lineHeight": "1.55",
+        "spacing": null,
+        "transform": null,
+        "count": 30
+      },
+      {
+        "context": "body",
+        "family": "Inter",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Arial",
+        "size": "15px (0.94rem)",
+        "weight": 400,
+        "lineHeight": "1.60",
+        "spacing": null,
+        "transform": null,
+        "count": 30
+      },
+      {
+        "context": "link",
+        "family": "Inter",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Arial",
+        "size": "15px (0.94rem)",
+        "weight": 700,
+        "lineHeight": "1.60",
+        "spacing": null,
+        "transform": null,
+        "count": 30
+      }
+    ],
+    "sources": {
+      "googleFonts": [],
+      "adobeFonts": false,
+      "variableFonts": false,
+      "selfHostedFonts": [],
+      "customFonts": []
+    }
+  },
+  "spacing": {
+    "scaleType": "8px",
+    "commonValues": [
+      {
+        "px": "10px",
+        "display": "10px",
+        "rem": "0.63rem",
+        "count": 210,
+        "numericValue": 10,
+        "frequency": 0
+      },
+      {
+        "px": "24px",
+        "display": "24px",
+        "rem": "1.50rem",
+        "count": 120,
+        "numericValue": 24,
+        "frequency": 0
+      },
+      {
+        "px": "1px",
+        "display": "1px",
+        "rem": "0.06rem",
+        "count": 60,
+        "numericValue": 1,
+        "frequency": 0
+      },
+      {
+        "px": "20px",
+        "display": "20px",
+        "rem": "1.25rem",
+        "count": 60,
+        "numericValue": 20,
+        "frequency": 0
+      },
+      {
+        "px": "12px",
+        "display": "12px",
+        "rem": "0.75rem",
+        "count": 30,
+        "numericValue": 12,
+        "frequency": 0
+      },
+      {
+        "px": "18px",
+        "display": "18px",
+        "rem": "1.13rem",
+        "count": 30,
+        "numericValue": 18,
+        "frequency": 0
+      },
+      {
+        "px": "28px",
+        "display": "28px",
+        "rem": "1.75rem",
+        "count": 30,
+        "numericValue": 28,
+        "frequency": 0
+      },
+      {
+        "px": "36px",
+        "display": "36px",
+        "rem": "2.25rem",
+        "count": 30,
+        "numericValue": 36,
+        "frequency": 0
+      }
+    ]
+  },
+  "borderRadius": {
+    "values": [
+      {
+        "value": "16px",
+        "count": 30,
+        "elements": [
+          "button"
+        ],
+        "confidence": "high",
+        "numericValue": 16,
+        "frequency": 0
+      },
+      {
+        "value": "22px",
+        "count": 30,
+        "elements": [
+          "div"
+        ],
+        "confidence": "high",
+        "numericValue": 22,
+        "frequency": 0
+      },
+      {
+        "value": "24px",
+        "count": 30,
+        "elements": [
+          "card"
+        ],
+        "confidence": "high",
+        "numericValue": 24,
+        "frequency": 0
+      },
+      {
+        "value": "50%",
+        "count": 30,
+        "elements": [
+          "div"
+        ],
+        "confidence": "high",
+        "numericValue": 50,
+        "frequency": 0
+      }
+    ]
+  },
+  "borders": {
+    "combinations": [
+      {
+        "width": "1px",
+        "style": "solid",
+        "color": "rgba(0, 0, 0, 0.04)",
+        "count": 30,
+        "elements": [
+          "card"
+        ],
+        "confidence": "high"
+      }
+    ]
+  },
+  "shadows": [
+    {
+      "shadow": "rgba(0, 0, 0, 0.08) 0px 12px 30px 0px",
+      "count": 30,
+      "confidence": "high"
+    },
+    {
+      "shadow": "rgba(255, 255, 255, 0.9) 0px 1px 0px 0px inset",
+      "count": 30,
+      "confidence": "high"
+    },
+    {
+      "shadow": "rgba(255, 204, 51, 0.4) 0px 8px 18px 0px",
+      "count": 30,
+      "confidence": "high"
+    },
+    {
+      "shadow": "rgba(255, 204, 51, 0.35) 0px 12px 22px 0px",
+      "count": 30,
+      "confidence": "high"
+    }
+  ],
+  "gradients": [
+    {
+      "gradient": "linear-gradient(rgb(247, 248, 250) 0%, rgb(238, 241, 244) 100%)",
+      "type": "linear",
+      "stopColors": [
+        "rgb(247, 248, 250)",
+        "rgb(238, 241, 244)"
+      ],
+      "count": 30
+    },
+    {
+      "gradient": "linear-gradient(rgb(255, 248, 225) 0%, rgb(255, 239, 191) 100%)",
+      "type": "linear",
+      "stopColors": [
+        "rgb(255, 248, 225)",
+        "rgb(255, 239, 191)"
+      ],
+      "count": 30
+    },
+    {
+      "gradient": "linear-gradient(rgb(255, 204, 51) 0%, rgb(230, 184, 0) 100%)",
+      "type": "linear",
+      "stopColors": [
+        "rgb(255, 204, 51)",
+        "rgb(230, 184, 0)"
+      ],
+      "count": 30
+    }
+  ],
+  "motion": {
+    "durations": [
+      {
+        "value": "0.001s",
+        "ms": 1,
+        "count": 570
+      }
+    ],
+    "easings": [
+      {
+        "value": "ease",
+        "type": "ease",
+        "count": 600
+      }
+    ],
+    "animations": [],
+    "contexts": {
+      "card": {
+        "count": 1,
+        "durations": [
+          "0.001s"
+        ],
+        "easing": "ease",
+        "easingType": "ease",
+        "props": []
+      },
+      "button": {
+        "count": 1,
+        "durations": [
+          "0.001s"
+        ],
+        "easing": "ease",
+        "easingType": "ease",
+        "props": [
+          "transform",
+          "box-shadow"
+        ]
+      },
+      "link": {
+        "count": 1,
+        "durations": [
+          "0.001s"
+        ],
+        "easing": "ease",
+        "easingType": "ease",
+        "props": []
+      }
+    },
+    "interactiveDeltas": [
+      {
+        "tag": "button",
+        "text": "Обновить",
+        "pattern": "transform",
+        "delta": {
+          "transform": "matrix(1, 0, 0, 1, 0, -1)"
+        }
+      }
+    ]
+  },
+  "components": {
+    "buttons": [],
+    "inputs": {
+      "text": [],
+      "checkbox": [],
+      "radio": [],
+      "select": []
+    },
+    "links": [
+      {
+        "color": "rgb(230, 184, 0)",
+        "textDecoration": "none",
+        "fontWeight": "700",
+        "states": {
+          "default": {
+            "color": "rgb(230, 184, 0)",
+            "textDecoration": "none"
+          },
+          "hover": {
+            "textDecoration": "underline"
+          }
+        },
+        "count": 30
+      }
+    ],
+    "badges": {
+      "all": [],
+      "byVariant": {
+        "error": [],
+        "warning": [],
+        "success": [],
+        "info": [],
+        "neutral": []
+      }
+    }
+  },
+  "breakpoints": [
+    {
+      "px": "640px"
+    }
+  ],
+  "iconSystem": [],
+  "frameworks": [],
+  "wcag": [
+    {
+      "fg": "#1f2937",
+      "bg": "#ffffff",
+      "ratio": 14.68,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": true,
+      "count": 210
+    },
+    {
+      "fg": "#6b7280",
+      "bg": "#ffffff",
+      "ratio": 4.83,
+      "aa": true,
+      "aaLarge": true,
+      "aaa": false,
+      "count": 60
+    },
+    {
+      "fg": "#e6b800",
+      "bg": "#ffffff",
+      "ratio": 1.87,
+      "aa": false,
+      "aaLarge": false,
+      "aaa": false,
+      "count": 30
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://petrovich.ru/",
+      "extractedAt": "2026-07-21T16:53:42.635Z"
+    },
+    {
+      "url": "https://petrovich.ru/about",
+      "extractedAt": "2026-07-21T16:53:53.618Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/1181179",
+      "extractedAt": "2026-07-21T16:54:02.802Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/1147204",
+      "extractedAt": "2026-07-21T16:54:11.944Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/1041717",
+      "extractedAt": "2026-07-21T16:54:20.577Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/984153",
+      "extractedAt": "2026-07-21T16:54:29.822Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/1036336",
+      "extractedAt": "2026-07-21T16:54:37.992Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/1084267",
+      "extractedAt": "2026-07-21T16:54:46.108Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/1062485",
+      "extractedAt": "2026-07-21T16:54:54.378Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/996581",
+      "extractedAt": "2026-07-21T16:55:03.706Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/1038521",
+      "extractedAt": "2026-07-21T16:55:12.679Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/1140893",
+      "extractedAt": "2026-07-21T16:55:20.805Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/939633",
+      "extractedAt": "2026-07-21T16:55:32.507Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/1002253",
+      "extractedAt": "2026-07-21T16:55:40.888Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/1059034",
+      "extractedAt": "2026-07-21T16:55:49.895Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/1155378",
+      "extractedAt": "2026-07-21T16:55:59.155Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/1072954",
+      "extractedAt": "2026-07-21T16:56:08.085Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/1087390",
+      "extractedAt": "2026-07-21T16:56:17.002Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/1061414",
+      "extractedAt": "2026-07-21T16:56:26.433Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/1050801",
+      "extractedAt": "2026-07-21T16:56:35.354Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/1136167",
+      "extractedAt": "2026-07-21T16:56:45.193Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/1135745",
+      "extractedAt": "2026-07-21T16:56:54.566Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/1069222",
+      "extractedAt": "2026-07-21T16:57:03.478Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/1135352",
+      "extractedAt": "2026-07-21T16:57:11.750Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/1135906",
+      "extractedAt": "2026-07-21T16:57:19.854Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/1158116",
+      "extractedAt": "2026-07-21T16:57:28.255Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/1135844",
+      "extractedAt": "2026-07-21T16:57:36.935Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/1136220",
+      "extractedAt": "2026-07-21T16:57:45.769Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/1136139",
+      "extractedAt": "2026-07-21T16:57:54.114Z"
+    },
+    {
+      "url": "https://petrovich.ru/product/1135908",
+      "extractedAt": "2026-07-21T16:58:03.687Z"
+    }
+  ]
+}
